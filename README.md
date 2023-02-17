@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gastonpro10&label=Profile%20views&color=0e75b6&style=flat" alt="gastonpro10" /> </p>
  📚 Work on the development of an e-commerce (fictitious, for Soy Henry's final project). <a href="https://oasis-library.vercel.app/">OasisLibrary</a>
+ 🌎 Countries App, individual project by "Soy Henry". <a href="https://pi-countries-main-yico.vercel.app/">CountriesApp</a>
 
  📫 How to reach me **gaston.abaca11@gmail.com**
 
